@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593724723717",
+    "project_id": "call-taxi-d38d1",
+    "storage_bucket": "call-taxi-d38d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593724723717:android:27e849a85f86f637b9426c",
+        "android_client_info": {
+          "package_name": "com.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARkjDXoAIH4K6An8WTw346Donyst6SYwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593724723717:android:ab9e6060c5674b34b9426c",
+        "android_client_info": {
+          "package_name": "com.taxi.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARkjDXoAIH4K6An8WTw346Donyst6SYwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
